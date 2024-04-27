@@ -27,4 +27,14 @@
 
 ### Output:
 
+Name:Ch.Nagajyothi RegNo:212221230015
+
+![image](https://github.com/Nagajyothichinta/WDM_EXP10/assets/94191344/cea67abb-c8c2-4dd8-930f-932cf3bbab88)
+
+![image](https://github.com/Nagajyothichinta/WDM_EXP10/assets/94191344/78e86778-2709-48f9-99d6-4cb61d7e266b)
+
+![image](https://github.com/Nagajyothichinta/WDM_EXP10/assets/94191344/8decaf46-4703-4feb-8969-d1d6e65c629c)
+
+
 ### Result:
+Thus, sentimental analysis for twitter data using Rapidminer is done successfully
